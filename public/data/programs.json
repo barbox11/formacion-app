@@ -1,0 +1,5 @@
+    [
+    { "id": 1, "name": "Curso de React", "modality": "virtual" },
+    { "id": 2, "name": "Taller de Vue", "modality": "presencial" },
+    { "id": 3, "name": "Fullstack Bootcamp", "modality": "mixta" }
+    ]
